@@ -1,4 +1,3 @@
-[![MasterHead](https://code.visualstudio.com/assets/blogs/2017/02/12/code_lens.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Core Programmer.</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/night-tutorials-indo-hanging-light-computer-laptop-gif-17497361.gif">
