@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Core Programmer.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/night-tutorials-indo-hanging-light-computer-laptop-gif-17497361.gif">
+<img align="right" alt="Coding" width="200" src="https://tenor.com/view/night-tutorials-indo-hanging-light-computer-laptop-gif-17497361.gif">
 
 - 🌱 I’m currently learning **Machine learning, AI**
 
